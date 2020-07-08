@@ -24,6 +24,12 @@ header:
       # @end locale config
     url: /archive.html
 
+  - title:   Docs
+    url:     /docs/en/quick-start
+
+  - title:      GitHub
+    url:        https://github.com/wasedawesley
+
   - titles:
       # @start locale config
       en      : &EN       About
